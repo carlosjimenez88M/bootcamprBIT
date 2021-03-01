@@ -48,6 +48,7 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 |Clase|Código|
 |-----:|-----|
 |Herramientas del Big Data|[Ingeniería de datos](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/C%C3%B3digos/Data_Eng.ipynb)|
+|Churn con ML (R)|[ML Clasificación](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Ejercicios/E2.Rmd)|
 
 ## Encuenta para el proyecto 
 
