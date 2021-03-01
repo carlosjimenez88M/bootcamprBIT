@@ -38,7 +38,7 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 
 |Fecha|Clase|
 |-----:|-----|
-|2020-03-01|[Clase1]()|
+|2020-03-01|[Clase1](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/Presentaciones/Clase1.pdf)|
 |2020-03-02|[Clase2]()|
 |2020-03-03|[Clase3]()|
 |2020-03-04|[Clase4]()|
