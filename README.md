@@ -45,15 +45,15 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 
 
 
-## Encuenta para el proyecto final
+## Encuenta para el proyecto 
 
-Recuerde contestar esta encuesta antes del 24 de de Febrero, respuestas después de dicha fecha no serán tomadas en cuenta. 
+Recuerde contestar esta encuesta antes del 2 de Marzo, respuestas después de dicha fecha no serán tomadas en cuenta. 
 
-[Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfMOg9nvZxNLuRFN1orMuKKll0Qp-yzGXmzoJu-jFPBi881SA/viewform?usp=sf_link)
+[Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdLnRioQYltk80g68rveDoc856gISVS2N3GNkujqDX_hwc8Bg/viewform?usp=sf_link)
 
 ## Proyecto Final
 
-* [Presentación Proyecto Final]()
+* [Presentación Proyecto Final](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/BIT/Trabajo_Final.md)
 
 
 ## Material de Apoyo

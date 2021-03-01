@@ -24,4 +24,10 @@
   
 Para lo cual, será necesario que responda la encuesta del curso , puede desarrollarla haciendo click [aquí](https://docs.google.com/forms/d/e/1FAIpQLSdLnRioQYltk80g68rveDoc856gISVS2N3GNkujqDX_hwc8Bg/viewform?usp=sf_link)
 
-La idea de esta solución es trabajar desde la practica , toda la teoría relacionada al mundo del Big Data y el Analytics
+La idea de esta solución es trabajar desde la práctica , toda la teoría relacionada al mundo del Big Data y el Analytics.
+
+Por Favor instale los paquetes de R y de Python en que se mencionan en la página principal de este curso.
+
+Muchos éxitos!
+
+
