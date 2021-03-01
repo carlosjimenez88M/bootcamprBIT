@@ -43,7 +43,11 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 |2020-03-03|[Clase3]()|
 |2020-03-04|[Clase4](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Presentaciones/Clase-Analytics.md)|
 
+## Códigos de la clase 
 
+|Clase|Código|
+|-----:|-----|
+|Herramientas del Big Data|[Ingeniería de datos](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/C%C3%B3digos/Data_Eng.ipynb)|
 
 ## Encuenta para el proyecto 
 
