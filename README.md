@@ -4,15 +4,9 @@
 ![](https://bit.institute/images/Instituto-Cursos-Programacion-50lg.png)
 
 
-### Instructores
+### Instructor
 
-* Laura Valencia (Data Scientist)
- 
-![](https://media-exp1.licdn.com/dms/image/C5603AQGrilH4jlTR9Q/profile-displayphoto-shrink_200_200/0/1604584143820?e=1619049600&v=beta&t=exJLY_geIykqdFGUt3WqXevKeDYXz99Jbjvt9C0e42Q)
 
-  + Mail : lavalencia@unal.edu.co
-  + Linkedin: https://www.linkedin.com/in/lvalenciab/
-  
 * Daniel Jiménez (Data Scientist)
 
 ![](https://media-exp1.licdn.com/dms/image/C5603AQELw6YtZh3zmw/profile-displayphoto-shrink_200_200/0/1607703563849?e=1619049600&v=beta&t=Su_TpTDpDPFtyBL6xhl4iShfaeoYXM-iOI7yx6LFYUg) 
@@ -40,8 +34,14 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 
 ## Calendario
 
-|Fecha|Clase|Ejercicio|Ejercicio en clase|
-|-----:|-----|------:|------:|
+### Curso Gerencial
+
+|Fecha|Clase|
+|-----:|-----|
+|2020-03-01|[Clase1]()|
+|2020-03-02|[Clase2]()|
+|2020-03-03|[Clase3]()|
+|2020-03-04|[Clase4]()|
 
 
 
