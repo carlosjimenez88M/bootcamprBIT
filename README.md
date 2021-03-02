@@ -66,7 +66,7 @@ Recuerde contestar esta encuesta hasta el 2 de Marzo, respuestas después de dic
 
 * [Git & GitHub](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Presentaciones/git%26github.pdf)
 
-## Acceso Grabaciones de las sesiones en vivo
+## Acceso grabaciones de las sesiones en vivo
 
 * [Sesión lunes 1 de marzo de 2021]
 (https://us.bbcollab.com/recording/f12dd108d1ac4527a5a90a2dc3c4b58e) 
