@@ -34,12 +34,12 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 
 ## Calendario
 
-### Curso Gerencial
+### Curso Entre Semana
 
 |Fecha|Clase|
 |-----:|-----|
 |2020-03-01|[Clase1](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/Presentaciones/Clase1.pdf)|
-|2020-03-02|[Clase2]()|
+|2020-03-02|[Clase2](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/Presentaciones/Clase2.pdf)|
 |2020-03-03|[Clase3]()|
 |2020-03-04|[Clase4](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Presentaciones/Clase-Analytics.md)|
 
@@ -49,6 +49,7 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 |-----:|-----|
 |Herramientas del Big Data|[Ingeniería de datos](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/C%C3%B3digos/Data_Eng.ipynb)|
 |Churn con ML (R)|[ML Clasificación](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Ejercicios/E2.Rmd)|
+
 
 ## Encuenta para el proyecto 
 
