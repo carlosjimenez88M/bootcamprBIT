@@ -1,0 +1,82 @@
+---
+title: "Ejercicio en Clase Web Scraping"
+author: "Daniel Jiménez"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = FALSE, warning = FALSE)
+```
+
+
+```{r}
+library(tidyverse)
+library(rvest)
+```
+
+## Precios de software de Nomina 
+
+
+
+1. Identificar ¿Donde esta esa información?
+
+
+```{r}
+url <- read_html("https://www.nominapp.com/precios")
+
+url%>%
+  html_nodes('h3')%>%
+  html_text()
+
+url%>%
+  html_nodes('div.pricing-features > div > div')%>%
+  html_text()
+
+url%>%
+  html_nodes('div.pricing-v1-tag')%>%
+  html_text()
+```
+
+
+2. Convertirla en una base de datos 
+
+```{r}
+url%>%
+  html_nodes('h3')%>%
+  html_text()->planes
+
+planes%>%
+  as_tibble()%>%
+  head(5)-> Planes
+
+url%>%
+  html_nodes('div.pricing-features > div > div')%>%
+  html_text()%>%
+  as_tibble()%>%
+  head(5)-> Capacidades
+
+url%>%
+  html_nodes('div.pricing-v1-tag')%>%
+  html_text()%>%
+  as_tibble()%>%
+  head(5)->precios
+```
+
+
+```{r}
+data.frame(planes,Capacidades,precios)%>%
+  head(5)-> Base_de_datos
+```
+
+```{r}
+Base_de_datos%>%
+  mutate(value=str_trim(value))%>%
+  rename('Capacidades'=value,
+         'Costos'=value.1)->Base_final1
+
+Base_final1$Costos[Base_final1$Costos=="$49.900"] <- "$269.910+$49.900"
+
+Base_final1
+```
+
