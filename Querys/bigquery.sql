@@ -32,3 +32,16 @@ from robotic-augury-283918.pokemon.pokemon_clase
 WHERE name!="Walrein"
 group by (Type)
 order by (-Average)
+
+
+-- Haciendo un conteo con la table ---
+select type1, count(*) as COUNT
+from robotic-augury-283918.pokemon.pokemon_clase
+group by (type1)
+order by (-COUNT)
+
+-- haciendo un cruce de bases de datos --
+select * 
+from robotic-augury-283918.pokemon.pokemon_clase  AS B1
+left join robotic-augury-283918.pokemon.pokemon_tabla2 as B2
+ON B1.name=B2.name
