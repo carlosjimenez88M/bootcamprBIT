@@ -72,6 +72,8 @@ Recuerde contestar esta encuesta hasta el 2 de Marzo, respuestas después de dic
 (https://us.bbcollab.com/recording/f12dd108d1ac4527a5a90a2dc3c4b58e) 
 * [Sesión martes 2 de marzo de 2021]
 (https://us.bbcollab.com/collab/ui/session/playback/load/b2f1b2f213884384a1e7e8bf4bbdfcdd)
+* [Sesión miércoles 3 de marzo de 2021]
+(https://us.bbcollab.com/collab/ui/session/playback/load/53a3560aaf39429d8afb3015a3e5e4d9)
 
 
 ## Link powerBI
