@@ -40,7 +40,7 @@ En este curso usted aprenderá a manejar problemas del mundo real a través de h
 |-----:|-----|
 |2020-03-01|[Clase1](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/Presentaciones/Clase1.pdf)|
 |2020-03-02|[Clase2](https://github.com/carlosjimenez88M/bootcamprBIT/blob/master/Presentaciones/Clase2.pdf)|
-|2020-03-03|[Clase3]()|
+|2020-03-03|[Clase3](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-CO-all-es-dr-BKWS-all-all-trial-e-dr-1009897-LUAC0010194&utm_content=text-ad-none-any-DEV_c-CRE_436299604737-ADGP_Hybrid%20%7C%20BKWS%20-%20MIX%20%7C%20Txt%20~%20Google%20Cloud%20Platform-KWID_43700047166266614-kwd-301173107504&utm_term=KW_google%20cloud%20platform-ST_Google%20Cloud%20Platform&gclid=CjwKCAiAp4KCBhB6EiwAxRxbpH8B9_MhT03M_q8UXsdzV3G8qK2v2HdTv1Z2uMsUb95IeaUyO_RsHBoCj60QAvD_BwE&gclsrc=aw.ds)|
 |2020-03-04|[Clase4](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Presentaciones/Clase-Analytics.md)|
 
 ## Códigos de la clase 
