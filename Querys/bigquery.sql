@@ -45,3 +45,15 @@ select *
 from robotic-augury-283918.pokemon.pokemon_clase  AS B1
 left join robotic-augury-283918.pokemon.pokemon_tabla2 as B2
 ON B1.name=B2.name
+
+
+
+--- Base de datos house price ---
+SELECT sqft_lot,waterfront,sqft_above,sqft_basement,city,
+    DATE(date) as date, 
+    CAST(price as INT64) as price, 
+    CAST(bedrooms as INT64) as bedrroms,
+    CAST(sqft_living as INT64) as sqft_living,
+    CAST(floors as INT64) as floors,
+ from bit01-306604.bases_de_prueba.house_price
+ 
