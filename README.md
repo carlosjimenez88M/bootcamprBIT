@@ -75,4 +75,4 @@ Recuerde contestar esta encuesta hasta el 2 de Marzo, respuestas después de dic
 
 
 ## Link powerBI
-[link](app.powerbi.com/view?r=eyJrIjoiMGI1ODg5ZWUtZDhjZS00MGQwLTk5ZWMtOGQwMThiNGY1OTUxIiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9" )
+[link](app.powerbi.com/view?r=eyJrIjoiMGI1ODg5ZWUtZDhjZS00MGQwLTk5ZWMtOGQwMThiNGY1OTUxIiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9)
