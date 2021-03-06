@@ -57,3 +57,29 @@ SELECT sqft_lot,waterfront,sqft_above,sqft_basement,city,
     CAST(floors as INT64) as floors,
  from bit01-306604.bases_de_prueba.house_price
  
+## Clase aplicada y toque deep 
+
+
+SELECT * EXCEPT (customerID,Partner,SeniorCitizen,Dependents,MonthlyCharges,Churn),
+    CASE
+    WHEN Partner=true THEN 'SI ES AFILIADO'
+    WHEN Partner=false THEN 'NO ES AFILIADO'
+    WHEN Partner is NULL then NULL
+    else 'Other' END as Partner,
+    CASE 
+    WHEN SeniorCitizen =1 THEN "Pensionado"
+    WHEN SeniorCitizen =0 THEN "No Pensionado"
+    WHEN SeniorCitizen is null  then null
+    else 'Other' end as SeniorCitizen ,
+    CASE
+    when Dependents= true then 'Si'
+    when Dependents= false then 'No'
+    when  Dependents is null then null
+    else 'Other' end as Dependents,
+    CAST(MonthlyCharges as INT64) as MonthlyCharges,
+    CASE
+    WHEN Churn = false then 'No'
+    WHEN Churn = true then 'Si'
+    WHEN churn is null then null
+    else 'Other'END as Churn ,
+    FROM bit01-306604.bases_de_prueba.otro_ejercicio_churn∫
