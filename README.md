@@ -66,7 +66,7 @@ Recuerde contestar esta encuesta hasta el 2 de Marzo, respuestas después de dic
 
 * [Git & GitHub](https://github.com/carlosjimenez88M/Big-Data-y-Analytics/blob/master/Presentaciones/git%26github.pdf)
 
-## Acceso grabaciones de las sesiones en vivo
+## Acceso grabaciones de las sesiones en vivo ENTRE SEMANA
 
 * [Sesión lunes 1 de marzo de 2021]
 (https://us.bbcollab.com/recording/f12dd108d1ac4527a5a90a2dc3c4b58e) 
@@ -77,6 +77,13 @@ Recuerde contestar esta encuesta hasta el 2 de Marzo, respuestas después de dic
 * [Sesión miércoles 4 de marzo de 2021]
 (https://us.bbcollab.com/collab/ui/session/playback/load/0323bba2facd43d0aab31445c74bdca9)
 
+## Acceso grabaciones de las sesiones en vivo BOOTCAMP
+
+* [Sesión viernes 5 de marzo de 2021]
+(https://us.bbcollab.com/collab/ui/session/playback/load/733ee925ac3f409c8b6bf740c2da66f6)
+
+* [Sesión sábado 6 de marzo de 2021]
+(https://us.bbcollab.com/collab/ui/session/playback/load/b2bf3ba36046493d95117720bfae013c)
 
 ## Link powerBI
 [link](app.powerbi.com/view?r=eyJrIjoiMGI1ODg5ZWUtZDhjZS00MGQwLTk5ZWMtOGQwMThiNGY1OTUxIiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9)
