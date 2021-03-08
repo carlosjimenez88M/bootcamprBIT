@@ -83,7 +83,7 @@ Recuerde contestar esta encuesta hasta el 2 de Marzo, respuestas después de dic
 (https://us.bbcollab.com/collab/ui/session/playback/load/733ee925ac3f409c8b6bf740c2da66f6)
 
 * [Sesión sábado 6 de marzo de 2021]
-(https://us.bbcollab.com/collab/ui/session/playback/load/b2bf3ba36046493d95117720bfae013c)
+(https://us.bbcollab.com/recording/b2bf3ba36046493d95117720bfae013c)
 
 ## Link powerBI
 [link](app.powerbi.com/view?r=eyJrIjoiMGI1ODg5ZWUtZDhjZS00MGQwLTk5ZWMtOGQwMThiNGY1OTUxIiwidCI6IjcxOGE2MTYzLWE5YzYtNDdlMi1iYzRjLTZmMjRmMGJjMjYyYyJ9)
